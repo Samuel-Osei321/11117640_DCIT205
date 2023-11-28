@@ -1,15 +1,17 @@
-- A BRIEF INTRODUCTION AND THE PURPOSE OF THE WEBSITE. 
-**This project aims to create a comprehensive website for the Computer Science Department, featuring 10 pages, each dedicated to a different aspect of the department. The purpose of this website is to provide information about various facets of the Computer Science Department, including courses, faculty, research, events, and more.**
+- A BRIEF INTRODUCTION AND THE PURPOSE OF THE WEBSITE. **
+This project aims to create a comprehensive website for the Computer Science Department, featuring 10 pages, each dedicated to a different aspect of the department. The purpose of this website is to provide information about various facets of the Computer Science Department, including courses, faculty, research, events, and more.**
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 🔭 Clone The Repository 
-**• Open a terminal on your machine. • Navigate to the directory where you want to clone the project. • Run the following command: git clone https://github.com/your-username/computer-science-dept-website.git • Change into the project directory: cd computer-science-dept-website**
+- 🔭 Clone The Repository **
+• Open a terminal on your machine. • Navigate to the directory where you want to clone the project. 
+• Run the following command: git clone https://github.com/your-username/computer-science-dept-website.git. 
+• Change into the project directory: cd computer-science-dept-website**
 
-- Project Reflection 
-**In the process of creating this website, I have gained valuable experience in web development and project management. Some key takeaways from this project include: CSS and HTML Proficiency: I've become more adept at structuring HTML documents and applying CSS styling. Git Version Control: Enhanced my understanding of version control using Git, including cloning repositories and managing branches. Project Organization: Learned how to structure a multi-page website, ensuring clarity and coherence in the user experience. Documentation: Realized the importance of clear and concise documentation for both the codebase and the project as a whole.**
+- Project Reflection **
+In the process of creating this website, I have gained valuable experience in web development and project management. Some key takeaways from this project include: CSS and HTML Proficiency: I've become more adept at structuring HTML documents and applying CSS styling. Git Version Control: Enhanced my understanding of version control using Git, including cloning repositories and managing branches. Project Organization: Learned how to structure a multi-page website, ensuring clarity and coherence in the user experience. Documentation: Realized the importance of clear and concise documentation for both the codebase and the project as a whole.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
