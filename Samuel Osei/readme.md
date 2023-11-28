@@ -8,6 +8,8 @@ This project aims to create a comprehensive website for the Computer Science Dep
 • Run the following command: git clone https://github.com/your-username/computer-science-dept-website.git. 
 • Change into the project directory: cd computer-science-dept-website**
 
+![Alt textdh](../fred.png)
+
 - Project Reflection **
 In the process of creating this website, I have gained valuable experience in web development and project management. Some key takeaways from this project include: CSS and HTML Proficiency: I've become more adept at structuring HTML documents and applying CSS styling. Git Version Control: Enhanced my understanding of version control using Git, including cloning repositories and managing branches. Project Organization: Learned how to structure a multi-page website, ensuring clarity and coherence in the user experience. Documentation: Realized the importance of clear and concise documentation for both the codebase and the project as a whole.**
 
